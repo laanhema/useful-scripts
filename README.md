@@ -14,4 +14,4 @@ once cloned, add this folder to path for quick access
 
 ## chmod400.bat (windows)
 
-- A batch script that changes permissions of a file / folder similar to chmod 400 on linux.
+- A batch script that changes permissions of a file / folder similar to chmod 400 on linux
